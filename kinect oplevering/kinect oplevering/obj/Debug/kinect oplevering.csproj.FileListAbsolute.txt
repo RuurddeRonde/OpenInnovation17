@@ -1,0 +1,17 @@
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\kinect oplevering.exe.config
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\kinect oplevering.exe
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\kinect oplevering.pdb
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\bin\Debug\Microsoft.Kinect.Wpf.Controls.xml
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect oplevering.csprojResolveAssemblyReference.cache
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect_oplevering.Form1.resources
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect_oplevering.Properties.Resources.resources
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect oplevering.csproj.GenerateResource.Cache
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect oplevering.exe
+C:\Users\Ruurd\Documents\FHICT jaar 2\Open innovation\opleveringen code\kinect oplevering\kinect oplevering\obj\Debug\kinect oplevering.pdb
